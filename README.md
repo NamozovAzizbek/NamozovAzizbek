@@ -4,4 +4,4 @@
 I work remotely and like to travel a lot. <br/>
 
 ### Languages and tools I work with:
-<code><img src = "https://w7.pngwing.com/pngs/703/864/png-transparent-go-language-logo-golang-go-mobile-developer-programming-programming-language-3d-icon-thumbnail.png" height = "30px" > </code>
+<code><img src = "https://w7.pngwing.com/pngs/703/864/png-transparent-go-language-logo-golang-go-mobile-developer-programming-programming-language-3d-icon-thumbnail.png" width = "30px" > </code>
