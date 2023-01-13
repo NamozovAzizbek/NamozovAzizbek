@@ -7,4 +7,4 @@ I work remotely and like to travel a lot. <br/>
 <code><img src = "https://w7.pngwing.com/pngs/703/864/png-transparent-go-language-logo-golang-go-mobile-developer-programming-programming-language-3d-icon-thumbnail.png" width = "30px" > </code>
 <br />
 - 📍 &nbsp; Current location: Toshkent Uzbekistan.
-- 🧾&nbsp; How to reach me:[@Azizbek Namozov](https://t.me/asdfg_007).
+- 🧾&nbsp; How to reach me : [@Azizbek Namozov](https://t.me/asdfg_007).
